@@ -1,0 +1,10 @@
+C:\Users\PWZ\Documents\GitHub\SQL\Project2\bin\Debug\Project2.dacpac
+C:\Users\PWZ\Documents\GitHub\SQL\Project2\bin\Debug\Project2.dll
+C:\Users\PWZ\Documents\GitHub\SQL\Project2\bin\Debug\Project2.pdb
+C:\Users\PWZ\Documents\GitHub\SQL\Project2\obj\Debug\Project2.sqlproj.AssemblyReference.cache
+C:\Users\PWZ\Documents\GitHub\SQL\Project2\obj\Debug\Model.xml
+C:\Users\PWZ\Documents\GitHub\SQL\Project2\obj\Debug\refactor.xml
+C:\Users\PWZ\Documents\GitHub\SQL\Project2\obj\Debug\postdeploy.sql
+C:\Users\PWZ\Documents\GitHub\SQL\Project2\obj\Debug\predeploy.sql
+C:\Users\PWZ\Documents\GitHub\SQL\Project2\obj\Debug\Project2.dll
+C:\Users\PWZ\Documents\GitHub\SQL\Project2\obj\Debug\Project2.pdb
