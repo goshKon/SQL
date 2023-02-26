@@ -4,3 +4,7 @@ C:\Users\PWZ\Documents\GitHub\SQL\Project1\bin\Debug\Project1.pdb
 C:\Users\PWZ\Documents\GitHub\SQL\Project1\obj\Debug\Project1.sqlproj.AssemblyReference.cache
 C:\Users\PWZ\Documents\GitHub\SQL\Project1\obj\Debug\Project1.dll
 C:\Users\PWZ\Documents\GitHub\SQL\Project1\obj\Debug\Project1.pdb
+C:\Users\PWZ\Documents\GitHub\SQL\Project1\obj\Debug\Model.xml
+C:\Users\PWZ\Documents\GitHub\SQL\Project1\obj\Debug\refactor.xml
+C:\Users\PWZ\Documents\GitHub\SQL\Project1\obj\Debug\postdeploy.sql
+C:\Users\PWZ\Documents\GitHub\SQL\Project1\obj\Debug\predeploy.sql
